@@ -1,0 +1,25 @@
+import java.util.Scanner;
+
+public class SquareApp{
+
+	public static void main(String... args){
+
+	Scanner sap = new Scanner(System.in);
+
+	System.out.print("Enter firstNumber: ");
+	int firstNumber = sap.nextInt();
+
+	System.out.print("Enter secondNumber: ");
+	int secondNumber = sap.nextInt();
+
+	int squareFirstNumber = (firstNumber * firstNumber);
+	int squareSecondNumber = (secondNumber * secondNumber);
+	int squaresSum = (firstNumber * firstNumber) + (secondNumber * secondNumber);
+	int squaresDifference =  (firstNumber * firstNumber) - (secondNumber * secondNumber);
+
+	System.out.printf("The squareFirstNumber is %d%n, The squareSecondNumber is %d%n, The squaresSum is %d%n, The squaresDifference is %d%n", squareFirstNumber, squareSecondNumber, squaresSum, squaresDifference);
+	 
+
+}
+
+}
