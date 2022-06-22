@@ -15,6 +15,10 @@ public class Student {
         listOfCourses = new ArrayList<>();
     }
 
+    public ArrayList<Course> getListOfCourses() {
+        return listOfCourses;
+    }
+
     public void addNewCourse(Course newCourse) {
         this.listOfCourses.add(newCourse);
     }
@@ -35,6 +39,7 @@ public class Student {
     public String getStudentName(){
         return firstName + " " + lastName;
     }
+
 
     public String toString(){
         String list = "";

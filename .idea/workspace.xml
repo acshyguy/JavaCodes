@@ -2,115 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3dc87cde-1550-4c6a-9b80-21e616889500" name="Changes" comment="Works">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssignmentsAndClassWorks/BarChart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssignmentsAndClassWorks/DaysOfChristmas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssignmentsAndClassWorks/DoWhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssignmentsAndClassWorks/FactorialValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssignmentsAndClassWorks/Hotel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssignmentsAndClassWorks/MtnApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssignmentsAndClassWorks/NokiaCall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssignmentsAndClassWorks/NokiaCall2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssignmentsAndClassWorks/RaiseToPower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssignmentsAndClassWorks/RandomNumGen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssignmentsAndClassWorks/SchoolTestScore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssignmentsAndClassWorks/ShoppingCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssignmentsAndClassWorks/ShoppingCartItems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssignmentsAndClassWorks/ShoppingCartMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssignmentsAndClassWorks/SumOfDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssignmentsAndClassWorks/TicTacToe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssignmentsAndClassWorks/TicTacToeMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssignmentsAndClassWorks/TrianglePrintingProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssignmentsAndClassWorks/TrianglePrintingProgram2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2Ex/Ex214.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2Ex/Ex215.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2Ex/Ex216.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2Ex/Ex217.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2Ex/Ex218.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2Ex/Ex224.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2Ex/Ex225.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2Ex/Ex226.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2Ex/Ex228.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2Ex/Ex231.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2Ex/Ex232.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2Ex/Ex233.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2Ex/Ex234.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2Ex/RectangleClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2Ex/TmanArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3Ex/Ex312PetrolPurchase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3Ex/Ex312PetrolPurchaseMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3Ex/Ex313Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3Ex/Ex313CarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3Ex/Ex314Clock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3Ex/Ex314ClockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3Ex/Ex315DuplicateCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3Ex/Ex315DuplicateCodeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3Ex/Ex316HeartRate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3Ex/Ex316HeartRateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3Ex/Ex317HealthRecords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3Ex/Ex317HealthRecordsMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3Ex/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4Ex/Ex45JavaStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4Ex/Ex46And45.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5Ex/Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5Ex/Hypotenuse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter7Ex/Ex728TortiseAndTheHare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter8Ex/Diary1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter8Ex/Entry1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EHIS/EhisClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EHIS/SelectionAndSorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception/CohortElevenException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception/Custom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewFolders/AirlineReservation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewFolders/Archery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewFolders/ArcheryMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewFolders/ArrayExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewFolders/ArrayExamples2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewFolders/CrapsMode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewFolders/DeckOfCards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewFolders/DeckOfCardsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewFolders/GradeBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewFolders/GradeBookTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewFolders/Hotel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Diary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Entry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Facilitator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/MainDiaryEntry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Native.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SchoolManagementSystem/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SchoolManagementSystem/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SchoolManagementSystem/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/AirConditioner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/AirConditioner1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/AirConditioner1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/classWork/Practice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/classWork/ZubberApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/kata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/Chapter7Ex/Ex728.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/Exception/CohortElevenException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/Exception/Custom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/Loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/SchoolManagementSystem/CourseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/SchoolManagementSystem/SchoolTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/SchoolManagementSystem/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/AccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/Ex313CarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/Ex314ClockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/Ex315DuplicateCodeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/HotelTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/KataTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/RectangleClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/SchoolTestScoreTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4Ex/Ex417GasMileage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EHIS/MyString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HospitalManagement/Doctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SchoolManagementSystem/Student2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/Direction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/Ex721TurtleGraphics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/HospitalManagement/DoctorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/SchoolManagementSystem/Student2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tdd/Ex721TurtleGraphicsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter4Ex/Ex46And45.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter4Ex/Ex46And45.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SchoolManagementSystem/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SchoolManagementSystem/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SchoolManagementSystem/Course2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SchoolManagementSystem/Course2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SchoolManagementSystem/School2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SchoolManagementSystem/School2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SchoolManagementSystem/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SchoolManagementSystem/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SchoolManagementSystem/Course2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/SchoolManagementSystem/Course2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SchoolManagementSystem/CourseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/SchoolManagementSystem/CourseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SchoolManagementSystem/School2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/SchoolManagementSystem/School2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SchoolManagementSystem/SchoolTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/SchoolManagementSystem/SchoolTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SchoolManagementSystem/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/SchoolManagementSystem/StudentTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,6 +33,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
         <option value="JUnit5 Test Class" />
       </list>
@@ -145,100 +59,113 @@
     "Repository.Attach.Sources": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "last_opened_file_path": "C:/Users/DELL/Desktop/java pratice/myJava/src"
+    "full.screen.before.presentation.mode": "false",
+    "last_directory_selection": "C:/Users/DELL/Desktop/java pratice/myJava/src",
+    "last_opened_file_path": "C:/Users/DELL/Desktop/java pratice/myJava/src",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="tdd" />
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\DELL\Desktop\java pratice\myJava\src" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="tdd" />
+    </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="HospitalManagement" />
+      <recent name="Chapter7Ex" />
       <recent name="SchoolManagementSystem" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="tdd" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.StudentTest.testThatCourseIsAdded">
-    <configuration name="CourseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.DoctorTest">
+    <configuration name="DoctorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="myJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SchoolManagementSystem.*" />
+          <option name="PATTERN" value="HospitalManagement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="SchoolManagementSystem" />
-      <option name="MAIN_CLASS_NAME" value="SchoolManagementSystem.CourseTest" />
+      <option name="PACKAGE_NAME" value="HospitalManagement" />
+      <option name="MAIN_CLASS_NAME" value="HospitalManagement.DoctorTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CourseTest.courseCanBeDeactivated" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DoctorTest.testForDocGender" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="myJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SchoolManagementSystem.*" />
+          <option name="PATTERN" value="HospitalManagement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="SchoolManagementSystem" />
-      <option name="MAIN_CLASS_NAME" value="SchoolManagementSystem.CourseTest" />
-      <option name="METHOD_NAME" value="courseCanBeDeactivated" />
+      <option name="PACKAGE_NAME" value="HospitalManagement" />
+      <option name="MAIN_CLASS_NAME" value="HospitalManagement.DoctorTest" />
+      <option name="METHOD_NAME" value="testForDocGender" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CourseTest.testThatCourseNameIsSet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DoctorTest.testForDocSpecialty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="myJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SchoolManagementSystem.*" />
+          <option name="PATTERN" value="HospitalManagement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="SchoolManagementSystem" />
-      <option name="MAIN_CLASS_NAME" value="SchoolManagementSystem.CourseTest" />
-      <option name="METHOD_NAME" value="testThatCourseNameIsSet" />
+      <option name="PACKAGE_NAME" value="HospitalManagement" />
+      <option name="MAIN_CLASS_NAME" value="HospitalManagement.DoctorTest" />
+      <option name="METHOD_NAME" value="testForDocSpecialty" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex721TurtleGraphicsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="myJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SchoolManagementSystem.*" />
+          <option name="PATTERN" value="tdd.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="SchoolManagementSystem" />
-      <option name="MAIN_CLASS_NAME" value="SchoolManagementSystem.StudentTest" />
+      <option name="PACKAGE_NAME" value="tdd" />
+      <option name="MAIN_CLASS_NAME" value="tdd.Ex721TurtleGraphicsTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentTest.testThatCourseIsAdded" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex721TurtleGraphicsTest.turnCanMoveForwardFacingEastTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="myJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SchoolManagementSystem.*" />
+          <option name="PATTERN" value="tdd.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="SchoolManagementSystem" />
-      <option name="MAIN_CLASS_NAME" value="SchoolManagementSystem.StudentTest" />
-      <option name="METHOD_NAME" value="testThatCourseIsAdded" />
+      <option name="PACKAGE_NAME" value="tdd" />
+      <option name="MAIN_CLASS_NAME" value="tdd.Ex721TurtleGraphicsTest" />
+      <option name="METHOD_NAME" value="turnCanMoveForwardFacingEastTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -246,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.StudentTest.testThatCourseIsAdded" />
-        <item itemvalue="JUnit.StudentTest" />
-        <item itemvalue="JUnit.CourseTest" />
-        <item itemvalue="JUnit.CourseTest.courseCanBeDeactivated" />
-        <item itemvalue="JUnit.CourseTest.testThatCourseNameIsSet" />
+        <item itemvalue="JUnit.DoctorTest" />
+        <item itemvalue="JUnit.DoctorTest.testForDocSpecialty" />
+        <item itemvalue="JUnit.DoctorTest.testForDocGender" />
+        <item itemvalue="JUnit.Ex721TurtleGraphicsTest.turnCanMoveForwardFacingEastTest" />
+        <item itemvalue="JUnit.Ex721TurtleGraphicsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +190,9 @@
       <option name="presentableId" value="Default" />
       <updated>1654873533330</updated>
       <workItem from="1654873534807" duration="25555000" />
-      <workItem from="1655107035740" duration="47858000" />
+      <workItem from="1655107035740" duration="89869000" />
+      <workItem from="1655656045988" duration="1300000" />
+      <workItem from="1655719348174" duration="39608000" />
     </task>
     <servers />
   </component>

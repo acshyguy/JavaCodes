@@ -26,13 +26,17 @@ class StudentTest {
         studentOne.addNewCourse(new Course("Biology", "BIO101", true));
         studentOne.addNewCourse(new Course("Geology", "GEO101", true));
         assertEquals("Chemistry", studentOne.getCourseName("Chemistry"));
+        assertEquals("Biology",studentOne.getListOfCourses().get(2).getCourseName());
+        assertEquals(4,studentOne.getListOfCourses().size());
     }
 
 
-    @Test
-    public void courseCanBeSelected(){
-        studentOne.selectCourse();
-        assertEquals();
-    }
+
+
+//    @Test
+//    public void courseCanBeSelected(){
+//        studentOne.selectCourse();
+//        assertEquals();
+//    }
 
 }

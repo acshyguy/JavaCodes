@@ -19,6 +19,9 @@ public class Course {
         }
         return "not found";
     }
+    public String getCourseName(){
+        return courseName;
+    }
 
     public String getCourseID() {
         return courseID;

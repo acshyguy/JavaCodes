@@ -16,7 +16,10 @@ class CourseTest {
 
     @Test
     void testThatCourseNameIsSet(){
+        Course courseTwo = new Course("Nigeria Constituency",
+                "NGR101", false);
         assertEquals("Theology",course.getCourseName("Theology"));
+        assertFalse(courseTwo.getCourseStatus());
     }
 
     @Test
